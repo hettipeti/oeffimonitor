@@ -9,5 +9,7 @@ var walkTimes = {
 	"Schottentor": {"walkTime": 480, "unreachTime": 300},
 	"Volkstheater": {"walkTime": 480, "unreachTime": 300},
 	"Landesgerichtsstraße": {"walkTime": 480, "unreachTime": 300},
-	"Auerspergstraße": {"walkTime": 300, "unreachTime": 180}
+	"Auerspergstraße": {"walkTime": 300, "unreachTime": 180},
+	"Rathausplatz/Burgtheater": {"walkTime": 480, "unreachTime": 
+300}
 };
